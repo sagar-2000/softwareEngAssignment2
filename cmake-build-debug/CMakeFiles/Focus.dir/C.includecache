@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sagarmahajan/Downloads/Focus/game_init.h
+
+/Users/sagarmahajan/Downloads/Focus/moving_stack.c
+moving_stack.h
+/Users/sagarmahajan/Downloads/Focus/moving_stack.h
+
+/Users/sagarmahajan/Downloads/Focus/moving_stack.h
+stdio.h
+-
+stdlib.h
+-
+game_init.h
+/Users/sagarmahajan/Downloads/Focus/game_init.h
+stdbool.h
+/Users/sagarmahajan/Downloads/Focus/stdbool.h
+
