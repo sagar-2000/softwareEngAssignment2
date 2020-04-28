@@ -25,6 +25,11 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sagar Mahajan" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zg2jNSGLZSEvhUm4eimANPoRx6" />
@@ -36,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -101,6 +107,10 @@
       <screen x="0" y="23" width="1360" height="711" />
     </state>
     <state x="506" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1360.711@0.23.1360.711" timestamp="1585247891140" />
+    <state x="538" y="86" key="CommitChangelistDialog2" timestamp="1588083754906">
+      <screen x="0" y="23" width="1650" height="972" />
+    </state>
+    <state x="538" y="86" key="CommitChangelistDialog2/0.23.1650.972@0.23.1650.972" timestamp="1588083754906" />
     <state width="1608" height="201" key="GridCell.Tab.0.bottom" timestamp="1588081815880">
       <screen x="0" y="0" width="1650" height="1050" />
     </state>
@@ -165,6 +175,10 @@
     <state width="1398" height="399" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588078541457" />
     <state width="1608" height="399" key="GridCell.Tab.1.right/0.0.1650.1050@0.0.1650.1050" timestamp="1588081615453" />
     <state width="1376" height="80" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1588077941676" />
+    <state x="544" y="224" key="Vcs.Push.Dialog.v2" timestamp="1588083776557">
+      <screen x="0" y="23" width="1650" height="972" />
+    </state>
+    <state x="544" y="224" key="Vcs.Push.Dialog.v2/0.23.1650.972@0.23.1650.972" timestamp="1588083776557" />
     <state x="450" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1587680988568">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
