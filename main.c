@@ -23,7 +23,5 @@ void main() {
 
     move(board,players);
 
-    print_board(board);
-
     exit(EXIT_SUCCESS);
 }

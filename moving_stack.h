@@ -18,10 +18,8 @@
 
 void move(square board [BOARD_SIZE][BOARD_SIZE], player players[PLAYERS_NUM]);
 void print_board(square board[BOARD_SIZE][BOARD_SIZE]);
-int stack_count(piece *n_stack);
-void printStack(struct piece *stack,char *string);
-struct square * stacksizecheck(struct square *square2, player *currplayer, int own, int throw);
+int stack_count(piece *s);
+void print_Stack(struct piece *stack,char *string);
 void stacksize(struct square *square2,struct player *currplayer);
-void winning(square board [BOARD_SIZE][BOARD_SIZE], player players[PLAYERS_NUM], int r, int g);
-void removedPieces(struct piece *removed, struct player *cp );
+void winning(square board [BOARD_SIZE][BOARD_SIZE],struct player *currp, int *r, int *g);
 set_empty(square * s);
