@@ -21,5 +21,5 @@ void print_board(square board[BOARD_SIZE][BOARD_SIZE]);
 int stack_count(piece *s);
 void print_Stack(struct piece *stack,char *string);
 void stacksize(struct square *square2,struct player *currplayer);
-void winning(square board [BOARD_SIZE][BOARD_SIZE],struct player *currp, int *r, int *g);
+void winning(square board [BOARD_SIZE][BOARD_SIZE], int *r, int *g);
 set_empty(square * s);

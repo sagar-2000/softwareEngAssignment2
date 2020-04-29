@@ -6,16 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/sagarmahajan/Downloads/Focus/game_init.c
-stdio.h
--
-stdlib.h
--
-game_init.h
-/Users/sagarmahajan/Downloads/Focus/game_init.h
-string.h
-/Users/sagarmahajan/Downloads/Focus/string.h
-
 /Users/sagarmahajan/Downloads/Focus/game_init.h
 
 /Users/sagarmahajan/Downloads/Focus/moving_stack.c

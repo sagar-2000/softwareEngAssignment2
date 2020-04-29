@@ -11,17 +11,17 @@
 void main() {
 
     // declaration of the players and the board
-    player players[PLAYERS_NUM];
-    square board[BOARD_SIZE][BOARD_SIZE];
+    player players[PLAYERS_NUM]; // array holding the players information
+    square board[BOARD_SIZE][BOARD_SIZE];// the main board
 
-    initialize_players(players);
+    initialize_players(players);// calling function to initialize players
 
-    initialize_board(board);
+    initialize_board(board);// calling function to initialize the board
+    players[0].own_pieces =1;
 
+    print_board(board);// printing the board
 
-    print_board(board);
-
-    move(board,players);
+    move(board,players);// calling the function which lets players play their moves
 
     exit(EXIT_SUCCESS);
 }
