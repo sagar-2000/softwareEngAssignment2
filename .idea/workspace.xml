@@ -14,7 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a95c042f-4f5e-44cd-99c0-4463cc2710eb" name="Default Changelist" comment="">
+    <list default="true" id="a95c042f-4f5e-44cd-99c0-4463cc2710eb" name="Default Changelist" comment="final submission. completed all the comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <workItem from="1585308256425" duration="31629000" />
       <workItem from="1586894532849" duration="2499000" />
       <workItem from="1587285143435" duration="706000" />
-      <workItem from="1587677905187" duration="81654000" />
+      <workItem from="1587677905187" duration="82374000" />
     </task>
     <task id="LOCAL-00001" summary="Almost done worked on stacks and limits with adding pieces to memebers of player">
       <created>1588083755157</created>
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588338006513</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="final submission. completed all the comments">
+      <created>1588338293734</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588338293734</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +146,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="final submission. completed all the comments" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="86" key="#Deployment" timestamp="1588338620613">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="93" y="86" key="#Deployment/0.23.1440.822@0.23.1440.822" timestamp="1588338620613" />
     <state x="547" y="176" key="#Inspections" timestamp="1587911205030">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -155,11 +166,15 @@
       <screen x="0" y="23" width="1360" height="711" />
     </state>
     <state x="506" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1360.711@0.23.1360.711" timestamp="1585247891140" />
-    <state x="87" y="23" key="CommitChangelistDialog2" timestamp="1588338161167">
+    <state x="87" y="23" key="CommitChangelistDialog2" timestamp="1588338969865">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="87" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1588338161167" />
+    <state x="87" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1588338969865" />
     <state x="538" y="86" key="CommitChangelistDialog2/0.23.1650.972@0.23.1650.972" timestamp="1588083816589" />
+    <state x="0" y="81" key="DiffContextDialog" timestamp="1588338931267">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="0" y="81" key="DiffContextDialog/0.23.1440.822@0.23.1440.822" timestamp="1588338931267" />
     <state width="1376" height="20" key="GridCell.Tab.0.bottom" timestamp="1588337927424">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -232,9 +247,14 @@
     <state width="1608" height="399" key="GridCell.Tab.1.right/0.0.1650.1050@0.0.1650.1050" timestamp="1588081615453" />
     <state width="2006" height="499" key="GridCell.Tab.1.right/0.0.2048.1280@0.0.2048.1280" timestamp="1588150555135" />
     <state width="1376" height="80" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1588077941676" />
-    <state x="544" y="224" key="Vcs.Push.Dialog.v2" timestamp="1588083834681">
-      <screen x="0" y="23" width="1650" height="972" />
+    <state x="285" y="138" key="RollbackChangesDialog" timestamp="1588338934226">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
+    <state x="285" y="138" key="RollbackChangesDialog/0.23.1440.822@0.23.1440.822" timestamp="1588338934226" />
+    <state x="475" y="193" key="Vcs.Push.Dialog.v2" timestamp="1588338311076">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="475" y="193" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1588338311076" />
     <state x="544" y="224" key="Vcs.Push.Dialog.v2/0.23.1650.972@0.23.1650.972" timestamp="1588083834681" />
     <state x="450" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1587680988568">
       <screen x="0" y="23" width="1440" height="822" />
