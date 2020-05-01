@@ -17,7 +17,6 @@ void main() {
     initialize_players(players);// calling function to initialize players
 
     initialize_board(board);// calling function to initialize the board
-    players[0].own_pieces =1;
 
     print_board(board);// printing the board
 

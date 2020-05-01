@@ -8,9 +8,15 @@
 
 /Users/sagarmahajan/Downloads/Focus/game_init.h
 
-/Users/sagarmahajan/Downloads/Focus/moving_stack.c
+/Users/sagarmahajan/Downloads/Focus/input_output.h
 moving_stack.h
 /Users/sagarmahajan/Downloads/Focus/moving_stack.h
+
+/Users/sagarmahajan/Downloads/Focus/main.c
+stdio.h
+-
+input_output.h
+/Users/sagarmahajan/Downloads/Focus/input_output.h
 
 /Users/sagarmahajan/Downloads/Focus/moving_stack.h
 stdio.h
