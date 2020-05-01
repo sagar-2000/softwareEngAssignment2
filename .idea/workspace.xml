@@ -15,7 +15,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a95c042f-4f5e-44cd-99c0-4463cc2710eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sagarmahajan_assignment2report_19204052 (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +91,7 @@
       <workItem from="1585308256425" duration="31629000" />
       <workItem from="1586894532849" duration="2499000" />
       <workItem from="1587285143435" duration="706000" />
-      <workItem from="1587677905187" duration="82732000" />
+      <workItem from="1587677905187" duration="82947000" />
     </task>
     <task id="LOCAL-00001" summary="Almost done worked on stacks and limits with adding pieces to memebers of player">
       <created>1588083755157</created>
@@ -143,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588339031384</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added the report">
+      <created>1588340492778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588340492778</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +161,8 @@
     <MESSAGE value="removed the unneccesary code and fixed the winning situation" />
     <MESSAGE value="finalised the comments of the code. finished the part of code which allows the player to place his/her own_piece from the fallen supply" />
     <MESSAGE value="final submission. completed all the comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="final submission. completed all the comments" />
+    <MESSAGE value="added the report" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the report" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="86" key="#Deployment" timestamp="1588338620613">
@@ -178,10 +185,10 @@
       <screen x="0" y="23" width="1360" height="711" />
     </state>
     <state x="506" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1360.711@0.23.1360.711" timestamp="1585247891140" />
-    <state x="87" y="23" key="CommitChangelistDialog2" timestamp="1588339031154">
+    <state x="87" y="23" key="CommitChangelistDialog2" timestamp="1588340538452">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="87" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1588339031154" />
+    <state x="87" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1588340538452" />
     <state x="538" y="86" key="CommitChangelistDialog2/0.23.1650.972@0.23.1650.972" timestamp="1588083816589" />
     <state x="0" y="81" key="DiffContextDialog" timestamp="1588338931267">
       <screen x="0" y="23" width="1440" height="822" />
