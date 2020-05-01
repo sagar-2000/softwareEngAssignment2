@@ -14,7 +14,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a95c042f-4f5e-44cd-99c0-4463cc2710eb" name="Default Changelist" comment="final submission. completed all the comments">
+    <list default="true" id="a95c042f-4f5e-44cd-99c0-4463cc2710eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sagarmahajan_assignment2report_19204052 (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +39,16 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Zg2jNSGLZSEvhUm4eimANPoRx6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -88,7 +92,7 @@
       <workItem from="1585308256425" duration="31629000" />
       <workItem from="1586894532849" duration="2499000" />
       <workItem from="1587285143435" duration="706000" />
-      <workItem from="1587677905187" duration="82374000" />
+      <workItem from="1587677905187" duration="82732000" />
     </task>
     <task id="LOCAL-00001" summary="Almost done worked on stacks and limits with adding pieces to memebers of player">
       <created>1588083755157</created>
@@ -132,13 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588338293734</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="final submission. completed all the comments">
+      <created>1588339031384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588339031384</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Almost done worked on stacks and limits with adding pieces to memebers of player" />
     <MESSAGE value="removed the unneccesary code and fixed the winning situation" />
     <MESSAGE value="finalised the comments of the code. finished the part of code which allows the player to place his/her own_piece from the fallen supply" />
@@ -166,10 +178,10 @@
       <screen x="0" y="23" width="1360" height="711" />
     </state>
     <state x="506" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1360.711@0.23.1360.711" timestamp="1585247891140" />
-    <state x="87" y="23" key="CommitChangelistDialog2" timestamp="1588338969865">
+    <state x="87" y="23" key="CommitChangelistDialog2" timestamp="1588339031154">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="87" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1588338969865" />
+    <state x="87" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1588339031154" />
     <state x="538" y="86" key="CommitChangelistDialog2/0.23.1650.972@0.23.1650.972" timestamp="1588083816589" />
     <state x="0" y="81" key="DiffContextDialog" timestamp="1588338931267">
       <screen x="0" y="23" width="1440" height="822" />
@@ -251,10 +263,10 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="285" y="138" key="RollbackChangesDialog/0.23.1440.822@0.23.1440.822" timestamp="1588338934226" />
-    <state x="475" y="193" key="Vcs.Push.Dialog.v2" timestamp="1588338311076">
+    <state x="475" y="193" key="Vcs.Push.Dialog.v2" timestamp="1588339070123">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="475" y="193" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1588338311076" />
+    <state x="475" y="193" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1588339070123" />
     <state x="544" y="224" key="Vcs.Push.Dialog.v2/0.23.1650.972@0.23.1650.972" timestamp="1588083834681" />
     <state x="450" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1587680988568">
       <screen x="0" y="23" width="1440" height="822" />
